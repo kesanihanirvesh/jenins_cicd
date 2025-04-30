@@ -1,0 +1,17 @@
+{
+  "name": "my-javascript-project",
+  "version": "1.0.0",
+  "description": "A JavaScript project that sets up a server and defines routes.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
